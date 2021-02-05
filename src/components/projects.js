@@ -1,5 +1,3 @@
-
-  
 import React, { Component } from 'react';
 import { Tabs, Tab, Grid, Cell, Card, CardTitle, CardText, CardActions, Button, CardMenu, IconButton } from 'react-mdl';
 
@@ -110,7 +108,7 @@ class Projects extends Component {
     return(
       <div>
         <Tabs activeTab={this.state.activeTab} onChange={(tabId) => this.setState({ activeTab: tabId })} ripple>
-          <Tab>React</Tab>
+          <Tab>Portfolio</Tab>
           {/* <Tab>Angular</Tab>
           <Tab>VueJS</Tab>
           <Tab>MongoDB</Tab> */}

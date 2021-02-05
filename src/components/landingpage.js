@@ -8,15 +8,9 @@ class Landing extends Component {
           <Grid className="landing-grid">
             <Cell col={12}> 
                <div style={{width: '100%', margin: '35px'}} class="card-body text-center"> 
-               <img src="https://i.imgur.com/CdlKyhF.jpg" class="rounded-circle"  width="150" height="185" />
+               <img src="https://i.imgur.com/CdlKyhF.jpg" alt="" class="rounded-circle"  width="150" height="185" />
                     <h5 class="card-title mt-2 mb-1">Futsum Nemariam</h5> <span class="fs-2 mb-3 font-weight-bold">Software Engineer</span>
                     <p class="mb-3 mt-3">"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy"</p>
-                    <ul class="list-inline">
-                        <li class="list-inline-item"><a><i class="fa fa-facebook fa-2x facebook"></i></a></li>
-                        <li class="list-inline-item"><a><i class="fa fa-twitter fa-2x twitter"></i></a></li>
-                        <li class="list-inline-item"><a><i class="fa fa-linkedin fa-2x linkedin"></i></a></li>
-                        <li class="list-inline-item"><a><i class="fa fa-google fa-2x google"></i></a></li>
-                    </ul>
                 </div>
                 
 

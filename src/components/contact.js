@@ -14,7 +14,9 @@ class Contact extends Component {
                />
               <h2>Futsum Nemariam</h2>
               <h4>Software Engineer</h4>
-              <p style={{ width: '75%', margin: 'auto', paddingTop: '1em'}}>If you have any questions or comments, or if you would like to contact me for a quote, please use the form below and i will get back to you as soon as possible </p>
+              <p style={{ width: '75%', margin: 'auto', paddingTop: '1em'}}>If you have any questions or comments, or if you would like to contact me for a quote, please use the contact address. 
+              {/* form below and i will get back to you as soon as possible  */}
+              </p>
 
               </Cell>
               <Cell col={6}>            
