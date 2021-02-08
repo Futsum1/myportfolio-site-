@@ -56,7 +56,7 @@ class Projects extends Component {
             <hr />
             </CardText>
             <CardActions border>
-            <a href="https://carrent1.herokuapp.com/"><Button colored>GitHub</Button> </a>
+            <a href="https://github.com/Futsum1/Car-Sell"><Button colored>GitHub</Button> </a>
             <a href="https://carrent1.herokuapp.com/"><Button colored>Heroku</Button> </a>
             <a href="https://repl.it/@Futsum"><Button colored>Repl.it</Button> </a>
             </CardActions>

@@ -10,7 +10,7 @@ class Landing extends Component {
                <div style={{width: '100%', margin: '35px'}} class="card-body text-center"> 
                <img src="https://i.imgur.com/CdlKyhF.jpg" alt="" class="rounded-circle"  width="150" height="185" />
                     <h5 class="card-title mt-2 mb-1">Futsum Nemariam</h5> <span class="fs-2 mb-3 font-weight-bold">Software Engineer</span>
-                    <p class="mb-3 mt-3">"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy"</p>
+                    <h4 class="mb-3 mt-3">"By doing what you love, You inspire and awaken the hearts of others."</h4>
                 </div>
                 
 
