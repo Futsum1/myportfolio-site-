@@ -9,15 +9,11 @@ class Landing extends Component {
             <Cell col={12}> 
                <div style={{width: '100%', margin: '35px'}} class="card-body text-center"> 
                <img src="https://i.imgur.com/CdlKyhF.jpg" alt="" class="rounded-circle"  width="150" height="185" />
-                    <h5 class="card-title mt-2 mb-1" style={{color: 'white', fontSize: '25px'}}>Futsum Nemariam</h5> 
+                    <h4 class="card-title mt-2 mb-1" style={{color: 'white'}}>Futsum Nemariam</h4> 
                     <span class="fs-2 mb-3 font-weight-bold" style={{color: 'white', fontSize: 'px'}}>Software Engineer</span>
-                    <h4 class="mb-3 mt-3" style={{color: 'white', fontSize: '25px'}}>"By doing what you love, You inspire and awaken the hearts of others."</h4>
+                    <h5 class="mb-3 mt-3" style={{color: 'white', fontSize: '25px'}}>"By doing what you love, You inspire and awaken the hearts of others!"</h5>
                 </div>
                 
-
-
-
-               
                 <div className="banner-text">
                  <h1> Full-Stack Web Developer </h1>
                 
